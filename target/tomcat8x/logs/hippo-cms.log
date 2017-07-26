@@ -1,0 +1,1 @@
+26.07.2017 23:02:21 WARN  localhost-startStop-1 [RepositoryLock.acquire:134] Existing lock file /Users/weikeunglam/Documents/workspace-sts/hip/target/storage/.lock detected. Repository was not shut down properly.

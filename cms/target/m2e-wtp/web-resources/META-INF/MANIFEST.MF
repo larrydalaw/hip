@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: GoGreen CMS
+Implementation-Version: 0.1.0-SNAPSHOT
+Built-By: weikeunglam
+Project-Build: 
+Implementation-Vendor-Id: org.example
+Project-Version: 0.1.0-SNAPSHOT
+Hippo-Release-Version: 11.0.2
+Build-Jdk: 1.8.0_131
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: 
+
